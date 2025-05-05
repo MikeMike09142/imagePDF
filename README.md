@@ -1,15 +1,34 @@
-# imagePDF Creador: Miguel Vergara :)
-Convertidor de Imágenes a formato PDF
+# 🖼️ Convertidor de Imágenes a PDF
+Creador: Miguel Vergara :)
+Una aplicación web simple hecha con React que permite convertir múltiples imágenes (`.jpg`, `.png`, `.webp`) en un solo archivo PDF.
 
-Este proyecto permite convertir imágenes (como PNG, JPG, etc.) en archivos PDF de manera fácil y rápida. Está diseñado para ser un convertidor de imágenes funcional, accesible y simple de usar.
+## 🚀 Características
 
-## Características
-- Soporta múltiples formatos de imágenes: PNG, JPG, JPEG.
-- Convierte una o varias imágenes en un solo archivo PDF.
-- Interfaz sencilla y fácil de usar.
+- Carga de imágenes por selección o arrastrar y soltar
+- Previsualización de las imágenes cargadas
+- Cambiar orientación del PDF (vertical u horizontal)
+- Cambiar el nombre del archivo PDF
+- Eliminar imágenes antes de convertir
+- Ordenar imágenes manualmente (subir o bajar)
+- Conversión a PDF usando [jsPDF](https://github.com/parallax/jsPDF)
 
-## Requisitos
-- Node.js y npm instalados en tu máquina.
-- Imágenes en formatos soportados (PNG, JPG, JPEG).
+## 📦 Tecnologías utilizadas
+
+- React + Vite
+- TypeScript
+- TailwindCSS
+- jsPDF
+- Lucide React Icons
+
+## 📸 Demo
+
+> 
+
+## 🛠️ Instalación
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+npm install
+npm run dev
 
 
