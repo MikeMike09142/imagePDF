@@ -1,4 +1,4 @@
-# imagePDF
+# imagePDF Creador: Miguel Vergara :)
 Convertidor de Imágenes a formato PDF
 
 Este proyecto permite convertir imágenes (como PNG, JPG, etc.) en archivos PDF de manera fácil y rápida. Está diseñado para ser un convertidor de imágenes funcional, accesible y simple de usar.
@@ -11,4 +11,5 @@ Este proyecto permite convertir imágenes (como PNG, JPG, etc.) en archivos PDF 
 ## Requisitos
 - Node.js y npm instalados en tu máquina.
 - Imágenes en formatos soportados (PNG, JPG, JPEG).
+
 
