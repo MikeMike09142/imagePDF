@@ -1,5 +1,6 @@
 # 🖼️ Convertidor de Imágenes a PDF
 Creador: Miguel Vergara :)
+
 Una aplicación web simple hecha con React que permite convertir múltiples imágenes (`.jpg`, `.png`, `.webp`) en un solo archivo PDF.
 
 ## 🚀 Características
